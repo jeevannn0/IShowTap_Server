@@ -25,7 +25,7 @@ Ensure you have the following software installed on your system:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/yourusername/show-tap-bot.git
+   git clone https://github.com/jeevannn0/IShowTap_Sever.git
 ```
 
 3. Install dependencies:
