@@ -28,7 +28,7 @@ Ensure you have the following software installed on your system:
    git clone https://github.com/jeevannn0/IShowTap_Sever.git
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 npm install
