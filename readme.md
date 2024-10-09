@@ -1,4 +1,4 @@
-# I Show Tap 
+# I Show Tap - Server
 [Link to Bot](https://t.me/IShowTap_Bot)
 
 This repository contains the backend server for the Show Tap Bot, which serves as a platform for user interactions via a Telegram bot. The backend is designed to facilitate communication and manage user data efficiently.
