@@ -13,13 +13,6 @@ This repository contains the backend server for the Show Tap Bot, which serves a
 
 ## Getting Started
 
-### Requirements
-
-Ensure you have the following software installed on your system:
-
-- Node.js (version 14 or later)
-- Yarn or npm
-
 ### Installation Steps
 
 1. Clone the repository:
