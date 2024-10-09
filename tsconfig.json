@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Ensure compiled output is in 'dist'
+    "rootDir": "./src", // Source files are in 'src'
+    "module": "commonjs", // Use commonjs modules (for Node.js)
+    "target": "ES2020",
+    "esModuleInterop": true,
+    "strict": true
+  },
+  "include": ["src/**/*"], // Include all files from src
+  "exclude": ["node_modules"]
+}
